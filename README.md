@@ -5,11 +5,11 @@ I am Vishal Rana, currently pursuing Bachelor of Engineering  in computer scienc
 
 This is a [link](https://mlh.io)
 
-- 🔭 I’m currently working on SCSS Project
+- 🔭 I’m currently working on React Projects
 - 🌱 I’m currently learning React 
 - 👯 I’m looking to collaborate on web development and open source projects
 - 💬 Ask me about web development
-- 📫 How to reach me: ...
+- 📫 How to reach me: isvisharana@gmail.com
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
