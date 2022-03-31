@@ -17,7 +17,7 @@
 #### 🎯 GOALS IN 2022:
 
 - Master React skills
-- Build real life applications clone in React i.e. Netfilx Clone, WhatsApp Clone 
+- Build real life applications clone in React i.e. Netflix Clone, WhatsApp Clone 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
