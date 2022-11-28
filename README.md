@@ -4,7 +4,7 @@
 
 <p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
 
-- 👨‍💻 Learning web development daily - mostly working with **JavaScript, React, Tailwind CSS etc.**
+- 👨‍💻 Learning web development daily - mostly working with **JavaScript, React etc.**
 
 - 📚 Acquire skills in everything related to **React** i.e. **Redux, Styled Components, Hooks etc.**
 
