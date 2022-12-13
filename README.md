@@ -4,7 +4,9 @@
 
 <p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
 
-- 👨‍💻 Learning web development daily - mostly working with **JavaScript, React etc.**
+#### 😇 Intro:
+
+- 👨‍💻 Learning web development daily - mostly working with **JavaScript, React, CSS etc.**
 
 - 📚 Acquire skills in everything related to **React** i.e. **Redux, Styled Components, Hooks etc.**
 
@@ -14,10 +16,11 @@
 
 
 
-#### 🎯 GOALS IN 2022:
+#### 🎯 GOALS IN 2023:
 
 - Master React skills
-- Build real life applications clone in React i.e. Netflix Clone, WhatsApp Clone 
+- Collab with likeminded developers
+- Build web-apps that can impact world for better
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
