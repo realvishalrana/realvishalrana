@@ -16,7 +16,7 @@
 
 
 
-#### 🎯 GOALS IN 2023:
+#### 🎯 GOALS IN 2024:
 
 - Master React skills
 - Collab with likeminded developers
