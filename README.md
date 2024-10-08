@@ -26,11 +26,14 @@
 <p align="left">
 <a href="https://linkedin.com/in/isvishalrana" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="isvishalrana" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/13879080" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="13879080" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/vrana14693" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="vrana14693" height="30" width="40" /></a>  
-  <a href="https://codepen.io/isvishalrana" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="isvishalrana" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/vrana14693" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="vrana14693" height="30" width="40" /></a>
+<a href="https://codepen.io/isvishalrana" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="isvishalrana" height="30" width="40" /></a>
 <a href="https://twitter.com/isvishalrana" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="isvishalrana" height="30" width="40" /></a>
-
 </p>
+
+<br><br>
+
+[![An image of @realvishalrana's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/realvishalrana)](https://holopin.io/@realvishalrana)
 
 
 <h3 align="left">Languages and Tools:</h3>
