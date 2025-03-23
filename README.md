@@ -16,9 +16,9 @@
 
 
 
-#### 🎯 GOALS IN 2024:
+#### 🎯 GOALS IN 2025:
 
-- Master React skills
+- Master React and NextJs skills
 - Collab with likeminded developers
 - Build web-apps that can impact world for better
 
