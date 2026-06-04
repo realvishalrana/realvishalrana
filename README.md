@@ -1,6 +1,6 @@
 ![Vishal Rana](https://user-images.githubusercontent.com/60568083/161051242-f162a510-f877-43a7-a4f5-89055c79a356.png)
 
-<h2 align="center">A passionate Frontend Developer from India</h2>
+<h2 align="center">A passionate FullStack Developer from India</h2>
 
 <p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
 
